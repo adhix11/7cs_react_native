@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "7Cs",
+    "icon": "./img/logo.jpg",
+    "version": "1.0.0",
+    "slug": "7cs",
+    "sdkVersion": "19.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    },
+    "isDetached": true,
+    "detach": {
+      "scheme": "exp694cee352c324954931443e6debe743a",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v1.18.4-sdk19.0.0-3fb414c9-8696-4966-a0ac-9ca424242424.tar.gz"
+    }
+  }
+}
